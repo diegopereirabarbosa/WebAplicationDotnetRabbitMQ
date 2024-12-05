@@ -1,2 +1,2 @@
 # WebAplicationDotnetRabbitMQ
-Aplicação .NET com RabbitMQ
+Aplicação com .NET com RabbitMQ 
